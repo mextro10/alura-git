@@ -9,3 +9,5 @@ console.log(minhaVar)
 //tratamento de erro!
 
 console.error('deu erro!')
+
+kkkkk
